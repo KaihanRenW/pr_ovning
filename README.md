@@ -1,3 +1,9 @@
 # Skriv ditt namn 
 
-##Nina Torstad
+## Lukas
+## Alexander Jonsson :)
+## Anna-Karin Rönnegård
+## Bishop L. Bojling
+## Jacob
+## Sadia AwaN
+## Nina Torstad
