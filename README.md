@@ -1,5 +1,8 @@
-# Sriv ditt namn 
-sadia awaN
+# Skriv ditt namn 
 
-
-HEJ ALL KLASS KAMARATER
+## Lukas
+## Alexander Jonsson :)
+## Anna-Karin Rönnegård
+## Bishop L. Bojling
+## Jacob
+## Sadia AwaN
